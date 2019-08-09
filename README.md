@@ -1,5 +1,18 @@
-This is a Code the Dream project based on [Create React App](https://github.com/facebook/create-react-app.
+# Building a resume with ReactJS.  
 
+For this assignment you are going to build a resume out of components. You're UI should consist of a header component (that may or may not consist of smaller components) for your name, email, and any other details you would want to include, a skills component to let us know about your growing list of skills, as well as a reusable job and portfolio components that can map through data arrays and output your work and portfolio pieces. 
+
+### Rules 
+1. Complete wireframe of your resume and send to your mentor, prior to committing code. 
+2. Make a really cool resume that is easily updatable by adding to your data objects.
+3. Deploy to either netlify or github pages. 
+
+## Stretch goals
+1. Implement a database, either airtable or firebase that you can use to update or pull your data. 
+
+
+## BUILD AND STARTER INSTRUCTIONS
+This is a Code the Dream project based on [Create React App](https://github.com/facebook/create-react-app.
 ## Available Scripts
 
 In the project directory, you can run:
